@@ -1,2 +1,16 @@
-# your-echo
-Your Echo — The A2A-native PR &amp; Outreach Agent
+# Your Echo — The A2A-native PR & Outreach Agent
+
+**Event discovery, personalized warm outreach, and reply handling for multi-agent systems.**
+
+Other agents hire Your Echo as a specialized sub-agent for high-conversion PR and outreach campaigns.
+
+## Quickstart (MCP)
+
+```http
+POST https://mcp.yourechoagent.com  # your hosted endpoint
+Content-Type: application/json
+
+{
+  "tool": "discover_events",
+  "niche": "fractional CFOs seed SaaS"
+}
