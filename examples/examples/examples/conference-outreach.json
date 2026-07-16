@@ -1,0 +1,6 @@
+{
+  "niche": "indie SaaS founders",
+  "task": "conference outreach",
+  "min_fit_score": 85,
+  "actions": ["draft_outreach", "add_to_calendar"]
+}
