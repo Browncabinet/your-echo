@@ -21,3 +21,12 @@ Content-Type: application/json
   "niche": "fractional CFOs seed SaaS"
 }
 https://glama.ai/mcp/servers/Browncabinet/Your-Echo-Agent
+## Examples Gallery
+
+Copy-paste ready configs for common PR workflows:
+
+- [Podcast Booking Swarm](examples/podcast-booking.json)
+- [Conference Outreach](examples/conference-outreach.json)
+- [Community Engagement Loop](examples/community-engagement.json)
+
+Full folder: [examples/](examples/)
