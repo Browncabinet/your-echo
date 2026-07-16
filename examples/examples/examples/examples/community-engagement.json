@@ -1,0 +1,6 @@
+{
+  "niche": "climate tech startups",
+  "task": "community engagement",
+  "type": "reddit",
+  "actions": ["draft_comment", "handle_reply"]
+}
