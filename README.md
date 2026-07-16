@@ -14,3 +14,4 @@ Content-Type: application/json
   "tool": "discover_events",
   "niche": "fractional CFOs seed SaaS"
 }
+https://glama.ai/mcp/servers/Browncabinet/Your-Echo-Agent
