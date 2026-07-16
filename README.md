@@ -1,8 +1,8 @@
-**Your Echo** — The A2A-native PR & Outreach Agent for multi-agent systems.
-
-Event discovery, personalized warm outreach, and reply handling.
 # Your Echo — The A2A-native PR & Outreach Agent
 
+Event discovery, personalized warm outreach, and reply handling for multi-agent systems.
+
+**Note**: Open examples and wrappers here. Full production engine with optimized performance, billing, and scaling is at https://yourechoagent.com**Your Echo** — The A2A-native PR & Outreach Agent for multi-agent systems.
 **Event discovery, personalized warm outreach, and reply handling for multi-agent systems.**
 **Your Echo** — The A2A-native PR & Outreach Agent for multi-agent systems.
 
